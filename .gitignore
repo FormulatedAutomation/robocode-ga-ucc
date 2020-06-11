@@ -5,6 +5,7 @@ temp/
 .idea/
 .ipynb_checkpoints/
 */.ipynb_checkpoints/*
+vault.json
 .vscode
 .DS_Store
 *.pyc
